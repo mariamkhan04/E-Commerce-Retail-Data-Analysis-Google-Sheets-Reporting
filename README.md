@@ -58,12 +58,12 @@ reporting period is 1 January 2022 to 31 December 2022.
 
 The source dataset contains **31,047 transaction lines**.
 
-  Measure                Reported value
-  -------------------- ----------------
-  Distinct orders                28,471
-  Distinct customers             28,437
-  Overall sales             ₹21,176,377
-  Delivered sales           ₹19,710,544
+| Measure | Reported value |
+|---|---:|
+| Distinct orders | 28,471 |
+| Distinct customers | 28,437 |
+| Overall sales | ₹21,176,377 |
+| Delivered sales | ₹19,710,544 |
 
 The dataset contains four order statuses: Delivered, Returned,
 Cancelled, and Refunded.
@@ -122,9 +122,9 @@ Suggested repository structure:
 
 ``` text
 E-Commerce-Retail-Data-Analysis/
+├── assets/
 ├── README.md
-├── Management_Report.md
-└── Retail Case Study.pdf
+└── Management_Report.md
 ```
 
 The files above document the project and its requirements. The working
@@ -132,11 +132,14 @@ analysis remains in Google Sheets.
 
 ### Open the Google Sheets workbook
 
-[Google Sheets workbook link](https://docs.google.com/spreadsheets/d/1n6-C8iIL07yZ9GrKuJOxfx9aOxNRSwJGye5WyQzUXwU/edit?usp=sharingE)
+[Google Sheets workbook link](https://docs.google.com/spreadsheets/d/1n6-C8iIL07yZ9GrKuJOxfx9aOxNRSwJGye5WyQzUXwU/edit?usp=sharing)
 
-![alt text](assets/image.png)
-![alt text](assets/image-1.png)
-![alt text](assets/image-2.png)
+### Screenshots
+
+![Month-on-Month Trend Report](assets/image.png)
+![State-Wise Performance Report](assets/image-1.png)  
+![Product-Category Performance Report](assets/image-2.png)
+![State-Wise Quarterly and Monthly Sales Snippet](assets/image-3.png)
 
 ## Purpose
 

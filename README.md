@@ -134,8 +134,11 @@ analysis remains in Google Sheets.
 
 [Google Sheets workbook link](https://docs.google.com/spreadsheets/d/1n6-C8iIL07yZ9GrKuJOxfx9aOxNRSwJGye5WyQzUXwU/edit?usp=sharing)
 
+[Live Dashboard Link](https://datastudio.google.com/reporting/f5a22949-0ee2-417f-801c-2e1e02157409)
+
 ### Screenshots
 
+![E-commerce Retail Performance Dashboard](assets/Dashboard.png)
 ![Month-on-Month Trend Report](assets/image.png)
 ![State-Wise Performance Report](assets/image-1.png)  
 ![Product-Category Performance Report](assets/image-2.png)
